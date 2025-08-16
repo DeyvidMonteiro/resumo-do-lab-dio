@@ -4,10 +4,10 @@ Entre os pontos principais que estudei estão:
 
 * O que é computação em nuvem e como ela facilita o acesso a recursos de TI sem a necessidade de infraestrutura física local.
 
-Principais modelos de serviço: IaaS, PaaS e SaaS.
+* Principais modelos de serviço: IaaS, PaaS e SaaS.
 
-Diferença entre modelos de nuvem: pública, privada e híbrida.
+* Diferença entre modelos de nuvem: pública, privada e híbrida.
 
-Visão geral do portal Azure e como navegar pelos recursos.
+* Visão geral do portal Azure e como navegar pelos recursos.
 
-Noções de gerenciamento de recursos e grupos de recursos.
+* Noções de gerenciamento de recursos e grupos de recursos.
